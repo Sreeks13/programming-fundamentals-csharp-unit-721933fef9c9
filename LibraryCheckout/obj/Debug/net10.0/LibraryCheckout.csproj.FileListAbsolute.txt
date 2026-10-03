@@ -1,0 +1,14 @@
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\obj\Debug\net10.0\LibraryCheckout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\obj\Debug\net10.0\LibraryCheckout.AssemblyInfoInputs.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\obj\Debug\net10.0\LibraryCheckout.AssemblyInfo.cs
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\obj\Debug\net10.0\LibraryCheckout.csproj.CoreCompileInputs.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\bin\Debug\net10.0\LibraryCheckout.exe
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\bin\Debug\net10.0\LibraryCheckout.deps.json
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\bin\Debug\net10.0\LibraryCheckout.runtimeconfig.json
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\bin\Debug\net10.0\LibraryCheckout.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\bin\Debug\net10.0\LibraryCheckout.pdb
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\obj\Debug\net10.0\LibraryCheckout.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\obj\Debug\net10.0\refint\LibraryCheckout.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\obj\Debug\net10.0\LibraryCheckout.pdb
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\obj\Debug\net10.0\LibraryCheckout.genruntimeconfig.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-721933fef9c9\LibraryCheckout\obj\Debug\net10.0\ref\LibraryCheckout.dll
